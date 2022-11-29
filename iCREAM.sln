@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iCream", "Point_Of_Sale_System\iCream.csproj", "{FDF3BD14-4499-419B-90E4-CCE404CC35EE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Point of sale Setup", "Point of sale Setup\Point of sale Setup.vdproj", "{BB254670-ED17-40D6-80CA-54F817AFDD2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDF3BD14-4499-419B-90E4-CCE404CC35EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF3BD14-4499-419B-90E4-CCE404CC35EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF3BD14-4499-419B-90E4-CCE404CC35EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF3BD14-4499-419B-90E4-CCE404CC35EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB254670-ED17-40D6-80CA-54F817AFDD2E}.Debug|Any CPU.ActiveCfg = Debug
+		{BB254670-ED17-40D6-80CA-54F817AFDD2E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FBC9AAD-E9C2-4F5F-8DCD-B48E69D14194}
+	EndGlobalSection
+EndGlobal
